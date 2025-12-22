@@ -179,7 +179,7 @@ p {
 .logo-img {
   height: 120px;
   /* Ajusta este valor según necesites el tamaño del logo */
-  width: auto;
+  width: 150px;
   object-fit: contain;
 }
 
