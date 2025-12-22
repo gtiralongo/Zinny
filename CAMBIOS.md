@@ -12,6 +12,10 @@
   - Email: zinnyderechoinmobiliario@gmail.com
   - Icono rojo estilo Gmail (#EA4335)
   - Efecto hover que oscurece el color (#C5221F)
+- **Ubicación**: 
+  - Mapa de Google Maps integrado debajo de la dirección
+  - Icono de ubicación restaurado a pin rojo para consistencia visual
+  - Dirección vinculada a Google Maps
 - **Instagram**: Actualizado el elemento de contacto
   - Reemplazado emoji por Icono SVG oficial
   - Fondo con gradiente oficial de Instagram

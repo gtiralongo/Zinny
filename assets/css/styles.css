@@ -568,6 +568,17 @@ p {
   transform: scale(1.1);
 }
 
+/* Map Pin Icon Styling */
+.map-pin-icon {
+  background-color: #EA4335 !important;
+  transition: all var(--transition-medium);
+}
+
+.map-pin-icon:hover {
+  background-color: #C5221F !important;
+  transform: scale(1.1);
+}
+
 /* Utilities */
 .text-red {
   color: #DC3545 !important;
