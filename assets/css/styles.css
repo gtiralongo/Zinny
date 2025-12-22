@@ -165,7 +165,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: var(--spacing-sm) var(--spacing-md);
+  padding: 0.25rem var(--spacing-md);
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -174,23 +174,13 @@ p {
   display: flex;
   align-items: center;
   gap: var(--spacing-sm);
-  font-family: var(--font-serif);
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--color-primary);
 }
 
-.logo-circle {
-  width: 50px;
-  height: 50px;
-  border-radius: var(--radius-full);
-  background-color: var(--color-primary);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-size: 1.8rem;
-  font-family: var(--font-serif);
+.logo-img {
+  height: 120px;
+  /* Ajusta este valor según necesites el tamaño del logo */
+  width: auto;
+  object-fit: contain;
 }
 
 .nav-menu {
