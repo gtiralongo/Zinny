@@ -51,7 +51,7 @@ Abre el archivo `assets/js/contact.js` y reemplaza:
 emailjs.init('YOUR_PUBLIC_KEY'); // Reemplaza con tu Public Key
 
 // Línea 25
-emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData)
+emailjs.send('service_rs5thie', 'template_vkuiqf8', formData)
 // Reemplaza YOUR_SERVICE_ID y YOUR_TEMPLATE_ID con los valores copiados
 ```
 
